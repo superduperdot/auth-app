@@ -1,6 +1,6 @@
 # Brale API Authentication Demo v1.0
 
-A minimal React application built with Vite that demonstrates OAuth2 client credentials authentication with the Brale API.
+A minimal React application built with Vite that demonstrates OAuth2 client credentials authentication with the Brale API. Uses the api at https://docs.brale.xyz
 
 ## Features
 
